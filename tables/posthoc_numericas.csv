@@ -1,0 +1,10 @@
+﻿variavel;comparacao;estatistica;p_bruto;p_ajustado_holm;cliffs_delta
+logGasto;0×1;64567060,5;<0,001;<0,001;-0,099
+logGasto;0×2;31395147,5;<0,001;<0,001;-0,537
+logGasto;1×2;33494851,0;<0,001;<0,001;-0,436
+logPernoite;0×1;71187431,0;0,238;0,238;-0,007
+logPernoite;0×2;4927288,0;<0,001;<0,001;-0,927
+logPernoite;1×2;5408563,0;<0,001;<0,001;-0,91
+idade_mediana;0×1;268352,0;<0,001;<0,001;-0,996
+idade_mediana;0×2;42360942,5;<0,001;<0,001;-0,383
+idade_mediana;1×2;98820292,5;<0,001;<0,001;0,661
